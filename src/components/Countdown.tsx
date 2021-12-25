@@ -16,6 +16,8 @@ export default function Countdown({ timer }: Timer) {
       </div>
 
       <div className="countdown-timer">
+        <img src="./images/urban-yard-logo.png" alt="Urban Yard logo" />
+
         <h1>Countdown to 2022</h1>
 
         <div className="timer">
