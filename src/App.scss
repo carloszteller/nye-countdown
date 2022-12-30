@@ -70,7 +70,16 @@ h1, .label {
 
   h1 {
     font-size: 30em;
-    animation: fade-in-out-scale 1000ms infinite;
+    opacity: 0;
+    filter: blur(1em);
+    transform: scale(5);
+  }
+
+  .fade-in-scale {
+    opacity: 1;
+    filter: blur(0);
+    transform: scale(1);
+    transition: all .5s;
   }
 }
 
@@ -90,19 +99,5 @@ h1, .label {
     margin-top: 1.5em;
     width: 50%;
     filter: drop-shadow(0 0 10px black);
-  }
-}
-
-@keyframes fade-in-out-scale {
-  0% {
-    opacity: 0;
-    filter: blur(1em);
-    transform: scale(5);
-  }
-
-  75% {
-    opacity: 1;
-    filter: blur(0);
-    transform: scale(1);
   }
 }
