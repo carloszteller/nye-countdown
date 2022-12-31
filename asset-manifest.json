@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/new-year-countdown/static/css/main.d93d6adc.css",
-    "main.js": "/new-year-countdown/static/js/main.274197e4.js",
-    "static/js/787.06b4b845.chunk.js": "/new-year-countdown/static/js/787.06b4b845.chunk.js",
+    "main.css": "/new-year-countdown/static/css/main.5f258385.css",
+    "main.js": "/new-year-countdown/static/js/main.0ed1fd8e.js",
+    "static/js/787.6b1f082c.chunk.js": "/new-year-countdown/static/js/787.6b1f082c.chunk.js",
     "index.html": "/new-year-countdown/index.html",
-    "main.d93d6adc.css.map": "/new-year-countdown/static/css/main.d93d6adc.css.map",
-    "main.274197e4.js.map": "/new-year-countdown/static/js/main.274197e4.js.map",
-    "787.06b4b845.chunk.js.map": "/new-year-countdown/static/js/787.06b4b845.chunk.js.map"
+    "main.5f258385.css.map": "/new-year-countdown/static/css/main.5f258385.css.map",
+    "main.0ed1fd8e.js.map": "/new-year-countdown/static/js/main.0ed1fd8e.js.map",
+    "787.6b1f082c.chunk.js.map": "/new-year-countdown/static/js/787.6b1f082c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d93d6adc.css",
-    "static/js/main.274197e4.js"
+    "static/css/main.5f258385.css",
+    "static/js/main.0ed1fd8e.js"
   ]
 }
