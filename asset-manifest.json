@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nye-countdown/static/css/main.5f258385.css",
-    "main.js": "/nye-countdown/static/js/main.625d9467.js",
+    "main.js": "/nye-countdown/static/js/main.7fa0d9b2.js",
     "static/js/787.6b1f082c.chunk.js": "/nye-countdown/static/js/787.6b1f082c.chunk.js",
     "index.html": "/nye-countdown/index.html",
     "main.5f258385.css.map": "/nye-countdown/static/css/main.5f258385.css.map",
-    "main.625d9467.js.map": "/nye-countdown/static/js/main.625d9467.js.map",
+    "main.7fa0d9b2.js.map": "/nye-countdown/static/js/main.7fa0d9b2.js.map",
     "787.6b1f082c.chunk.js.map": "/nye-countdown/static/js/787.6b1f082c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f258385.css",
-    "static/js/main.625d9467.js"
+    "static/js/main.7fa0d9b2.js"
   ]
 }
